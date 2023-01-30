@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ABF200&height=300&section=header&text=JaeHyeokee :)&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ABF200&height=300&section=header&text=JaeHyeokee:)&fontSize=90)
 ## 🏃Github Stats
 ![Jaehyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeokee&show_icons=true&theme=great-gatsby&count_private=true)
 ## 👨‍💻Tech Stack
