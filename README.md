@@ -43,3 +43,5 @@
 ### ✨ Version Control & Collaboration
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
